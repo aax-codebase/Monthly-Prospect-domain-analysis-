@@ -4,7 +4,9 @@
 - Download Salesforce report “Pipeline linked websites” (https://aax.lightning.force.com/lightning/r/Report/00O5a000005zMNcEAM/view?queryScope=userFolders) and place these domains in column H.  
 - Ensure the start month in column C is month M-1 and the Sales solution is “Lead Enrichment - Full”  
 - Press the large “Refresh data” button.  
-- Copy this data to the file similarweb_full_save.xlsx labelling the month in question in column B.  
+- Copy this data to the file similarweb_full_save.xlsx in the tab "original_data" labelling the month in question in column B.  
+- Add this data in the formulas tab (remove prior months data before but keeping the formulas).  
+- Paste the relevant columns overto the sheet "Full_historical" with a log of the latest month.  
 - Once the data is collected copy it to the Similarweb Dashboard creating a new tab for the month in question.  
 - Request the top 200 domains from the MNET team and run the same process as with the above domains. This data should be added to the tab “Top 200 domains” with the relevant data from Similarweb being the establishment of the Category for RPM and Ad block forecasting.  
   
