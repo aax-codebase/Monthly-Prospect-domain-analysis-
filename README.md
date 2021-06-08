@@ -1,7 +1,7 @@
 ## Similarweb process: (to be run from 8th of month)   
 
 - Go to the Gsheet “aax SimilarWeb Dashboard A La Carte” (https://docs.google.com/spreadsheets/d/1SF2fzB2-BgexrFqx9k4Ud-9HsgN1T_4MPLL0JAJA1Zg/edit#gid=0) and delete the domains in column H.  
-- Download Salesforce report “Pipeline linked websites” (https://aax.lightning.force.com/lightning/r/Report/00O5a000005zIuXEAU/edit?queryScope=userFolders) and place these domains in column H.  
+- Download Salesforce report “Pipeline linked websites” (https://aax.lightning.force.com/lightning/r/Report/00O5a000005zMNcEAM/view?queryScope=userFolders) and place these domains in column H.  
 - Ensure the start month in column C is month M-1 and the Sales solution is “Lead Enrichment - Full”  
 - Press the large “Refresh data” button.  
 - Copy this data to the file similarweb_full_save.xlsx labelling the month in question in column B.  
