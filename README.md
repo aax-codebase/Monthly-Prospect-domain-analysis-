@@ -12,7 +12,7 @@
   
 ## Blockthrough process:  
 
-- Download Salesforce report “Pipeline linked websites” (https://aax.lightning.force.com/lightning/r/Report/00O5a000005zIuXEAU/edit?queryScope=userFolders)
+- Download Salesforce report “Pipeline linked websites” (https://aax.lightning.force.com/lightning/r/Report/00O5a000005zMNcEAM/view?queryScope=userFolders)
 - Save the report as the month/year to which you will be running data against.  
  e.g. In March 2021 the data gathered for similarweb is from February so 2021-02.  
 - Run the script cookie_acceptor.py which will create an input list for the languages scrape.  
